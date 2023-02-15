@@ -9,7 +9,7 @@
 > - Work together with a team
 
 ##Live Demo
-[LIVE DEMO](https://peterboro.github.io/Peterboro-Portfolio/)
+[LIVE DEMO](https://personal-portfolio-peter.netlify.app/)
 
 ## Built With
 - HTML

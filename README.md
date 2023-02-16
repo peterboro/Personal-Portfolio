@@ -46,7 +46,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"> (https://personal-portfolio-peter.netlify.app/) </a>
+## 🚀 Live Demo <a name="live-demo"> [Personal Portfolio](https://personal-portfolio-peter.netlify.app/) </a>
 
 ## Getting Started
 

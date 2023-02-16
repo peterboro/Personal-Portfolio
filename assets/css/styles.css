@@ -206,6 +206,17 @@ body.dark-theme {
 .nav__logo {
   font-family: var(--title-font);
   font-weight: var(--font-medium);
+  animation: nav__logo 0.5s ease-in-out infinite alternate;
+}
+
+@keyframes nav__logo {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(1.1);
+  }
 }
 
 .nav__toggle {
@@ -592,10 +603,16 @@ body.dark-theme {
   margin: 0.5rem 0 1.25rem;
 }
 
+.projects__description {
+  font-size: var(--small-font-size);
+  color: var(--text-color-light);
+  margin-bottom: 1.5rem;
+}
+
 .projects__button {
   display: inline-flex;
   align-items: center;
-  column-gap: 0.5rem;
+  column-gap: 0.8rem;
   color: var(--title-color);
   font-size: var(--small-font-size);
 }
@@ -609,7 +626,6 @@ body.dark-theme {
   transform: translateX(0.25rem);
 }
 
-/* Swiper class */
 .projects__container .swiper-button-prev::after,
 .projects__container .swiper-button-next::after {
   content: '';
@@ -784,7 +800,6 @@ body.dark-theme {
   font-size: var(--small-font-size);
 }
 
-/* Status color */
 .color-red {
   color: hsl(4, 71%, 50%);
 }

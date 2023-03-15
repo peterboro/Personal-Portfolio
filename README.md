@@ -34,6 +34,11 @@
 > - Build sections of the mobile website using the template you chose in the previous step.
 > - Work together with a team
 
+## MockUps
+![634shots_so](https://user-images.githubusercontent.com/27219880/225303260-55bdbf1d-6a0a-4407-884a-4d5109feedb5.png)
+
+![495shots_so](https://user-images.githubusercontent.com/27219880/225303299-87025fcd-3ff1-4667-9342-882704975e46.png)
+
 ## Built With
 - HTML
 - CSS
